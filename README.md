@@ -11,7 +11,7 @@ I am a third-year computer science student at University of Hertfordshire, passi
 - Deepening my skills in **mobile app development**
 
 ### 🛠️ Projects
-- Currently Building real-world **Flutter apps** to sharpen my portfolio. 
+- Building real-world **Flutter apps** to sharpen my portfolio. 
 
 ### 🌱 Next Steps
 - Exploring **To Learn DSA and Concepts**  

@@ -17,6 +17,9 @@ I am a third-year computer science student at University of Hertfordshire, passi
 - Exploring **software engineering concepts**  
 - Preparing for **internships and career opportunities**
 
+# 🌐 Connect with me: 
+https://www.linkedin.com/in/zar-khan-hilal-8632172a3/
+
 
 <!--
 **CodeWithZar/CodeWithZar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

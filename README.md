@@ -4,7 +4,7 @@
 
 I am a third-year computer science student at University of Hertfordshire, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-# 🚀 What I'm Up To
+# 🚀 What I'm Up To:
 
 ### 🔥 Currently
 - **Learning Flutter & Dart**  
@@ -17,7 +17,7 @@ I am a third-year computer science student at University of Hertfordshire, passi
 - Exploring **To Learn DSA and Concepts**  
 - Preparing for **internships and career opportunities**
 
-# 🌐 Connect With Me
+# 🌐 Connect With Me:
 
 <p>
   <a href="https://www.linkedin.com/in/zar-khan-hilal-8632172a3/" target="_blank">
@@ -25,7 +25,7 @@ I am a third-year computer science student at University of Hertfordshire, passi
   </a>
 </p>
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
 
 <p align="left">Languages:</p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">

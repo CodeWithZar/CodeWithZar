@@ -27,7 +27,7 @@ I am a third-year computer science student at University of Hertfordshire, passi
 
 # 💻 Tech Stack
 
-<p align="left">Languages</p>
+<p align="left">Languages:</p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   </a>

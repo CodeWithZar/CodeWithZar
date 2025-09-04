@@ -2,6 +2,8 @@
 
 # 💫 About Me:
 
+I am a third-year computer science student at University of Hertfordshire, passionate about exploring the realms of coding, machine learning, and building robust applications.
+
 <!--
 **CodeWithZar/CodeWithZar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

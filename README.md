@@ -7,14 +7,15 @@ I am a third-year computer science student at University of Hertfordshire, passi
 # 🚀 What I'm Up To:
 
 ### 🔥 Currently
-- **Learning Flutter & Dart**  
-- Deepening my skills in **mobile app development**
+- **Learning Full Stack Software Engineering** (HTML, CSS, JavaScript, React, Node.js, and more)  
+- Building a strong foundation in **frontend + backend development**
 
 ### 🛠️ Projects
-- Building real-world **Flutter apps** to sharpen my portfolio. 
+- Creating **full stack web applications** to sharpen my portfolio  
+- Working on projects that combine **databases, APIs, and modern frameworks**
 
 ### 🌱 Next Steps
-- Exploring **To Learn DSA and Concepts**  
+- Exploring **Data Structures & Algorithms (DSA)** and core CS concepts  
 - Preparing for **internships and career opportunities**
 
 # 🌐 Connect With Me:

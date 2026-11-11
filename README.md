@@ -1,56 +1,93 @@
-<h1 align="center">Hi 👋 I'm Zar Khan</h1>
+# Hi 👋, I'm Zar Khan
 
-# 💫 About Me:
+### Computer Science Graduate | Aspiring Data Analyst | Future Data Scientist
 
-I am a third-year computer science student at University of Hertfordshire, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I'm a Computer Science graduate from the **University of Hertfordshire**, with a minor in Artificial Intelligence. I'm interested in using data, technology, and analytical thinking to solve real-world problems and support better decision-making.
 
-# 🚀 What I'm Up To:
+I have a background in software development and AI, and I'm currently transitioning towards **Data Analytics and Business Intelligence**, while building a long-term foundation in Data Science and Machine Learning.
 
-### 🔥 Currently
-- **Learning Full Stack Software Engineering** (HTML, CSS, JavaScript, React, Node.js, and more)  
-- Building a strong foundation in **frontend + backend development**
+## 🚀 What I'm Currently Focusing On
 
-### 🛠️ Projects
-- Creating **full stack web applications** to sharpen my portfolio  
-- Working on projects that combine **databases, APIs, and modern frameworks**
+- 📊 Developing skills in **Data Analytics and Business Intelligence**.
+- 📈 Learning **Microsoft Excel, SQL, and Power BI** for data analysis and reporting.
+- 🐍 Strengthening my **Python** skills for data manipulation and analysis.
+- 🧹 Practising data cleaning, data preparation, exploratory data analysis (EDA), and data visualisation.
+- 🤖 Exploring statistics, Machine Learning, and predictive analytics as part of my long-term Data Science journey.
+- 💡 Building practical projects to turn raw data into meaningful insights.
 
-### 🌱 Next Steps
-- Exploring **Data Structures & Algorithms (DSA)** and core CS concepts  
-- Preparing for **internships and career opportunities**
+## 🛠️ Technical Skills
 
-# 🌐 Connect With Me:
+**Data Analytics & Business Intelligence**
 
-<p>
-  <a href="https://www.linkedin.com/in/zar-khan-hilal-8632172a3/" target="_blank">
+- Microsoft Excel
+- SQL / MySQL
+- Power BI
+- Data Cleaning and Preparation
+- Exploratory Data Analysis (EDA)
+- Data Visualisation
+- Business Reporting
+
+**Programming Languages**
+
+- Python
+- JavaScript
+- Dart
+
+**Development Technologies**
+
+- React
+- React Native
+- Flutter
+- HTML5
+- CSS3
+- Tailwind CSS
+
+**Tools & Platforms**
+
+- Git
+- GitHub
+- Jupyter Notebook
+- Visual Studio Code
+
+*I'm continuously developing my analytics toolkit and expanding my practical experience with these technologies.*
+
+## 📂 Projects
+
+I'm building a portfolio focused on practical data analysis and business intelligence projects.
+
+Some areas I'm exploring:
+
+- 📊 **Business Performance Analysis** – analysing operational data and identifying trends.
+- 📈 **Data Visualisation & Dashboards** – communicating insights through interactive dashboards.
+- 🐍 **Exploratory Data Analysis** – using Python and Pandas to clean, explore, and understand datasets.
+- 🗄️ **SQL Data Analysis** – querying relational databases to extract meaningful business insights.
+- 🤖 **Machine Learning Projects** – gradually exploring predictive modelling and AI applications.
+
+## 🎓 Background
+
+- Bachelor's degree in Computer Science — University of Hertfordshire.
+- Minor in Artificial Intelligence.
+- Previous internship experience in AI and Web Development.
+- Interested in Data Analytics, Business Intelligence, Data Science, and Machine Learning.
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="[https://www.linkedin.com/in/zar-khan-hilal-8632172a3/](https://www.linkedin.com/in/zar-khan-a96a8b406/)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 
-# 💻 Tech Stack:
+## 📊 GitHub Statistics
 
-<p align="left">Languages:</p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  </a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
 </p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark" alt="Top Languages"/>
+</p>
+
+---
+
+**Always learning, building, analysing, and improving.** 🚀

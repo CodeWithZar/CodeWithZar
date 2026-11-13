@@ -1,6 +1,6 @@
 # Hi 👋, I'm Zar Khan
 
-### Computer Science Graduate | Aspiring Data Analyst | Future Data Scientist
+### Computer Science Graduate | Aspiring Data Analyst | 
 
 I'm a Computer Science graduate from the **University of Hertfordshire**, with a minor in Artificial Intelligence. I'm interested in using data, technology, and analytical thinking to solve real-world problems and support better decision-making.
 
